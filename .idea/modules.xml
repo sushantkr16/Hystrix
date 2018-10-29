@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Learn-Hystrix.iml" filepath="$PROJECT_DIR$/.idea/modules/Learn-Hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Learn-Hystrix_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Learn-Hystrix_main.iml" group="Learn-Hystrix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Learn-Hystrix_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Learn-Hystrix_test.iml" group="Learn-Hystrix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/birthday/birthday.iml" filepath="$PROJECT_DIR$/.idea/modules/birthday/birthday.iml" group="birthday" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/birthday/birthday_main.iml" filepath="$PROJECT_DIR$/.idea/modules/birthday/birthday_main.iml" group="birthday" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/birthday/birthday_test.iml" filepath="$PROJECT_DIR$/.idea/modules/birthday/birthday_test.iml" group="birthday" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/events/events.iml" filepath="$PROJECT_DIR$/.idea/modules/events/events.iml" group="events" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/events/events_main.iml" filepath="$PROJECT_DIR$/.idea/modules/events/events_main.iml" group="events" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/events/events_test.iml" filepath="$PROJECT_DIR$/.idea/modules/events/events_test.iml" group="events" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/invitation/invitation.iml" filepath="$PROJECT_DIR$/.idea/modules/invitation/invitation.iml" group="invitation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/invitation/invitation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/invitation/invitation_main.iml" group="invitation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/invitation/invitation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/invitation/invitation_test.iml" group="invitation" />
+    </modules>
+  </component>
+</project>
